@@ -1,12 +1,27 @@
 ## Hi there 👋
 
-<!--
+This organization contains repositories for uni projects that I've created for both individual and group projects/exercises/handins.
 
-**Here are some ideas to get you started:**
+In this README you can find a list of links to repositories outside this organization, where I am also a contributor:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+### Security 1 (Fall 2022)
+
+- [Defend project](https://github.com/Tietgen-ITU/SEC-Pen-Test-Code)
+
+### Program Verification (Spring 2022)
+
+- [Exam project](https://github.com/AMB-F/PVExamProject)
+
+### Distributed Systems (spring 2021)
+
+- [Exercise 1](https://github.com/AMB-F/DisysExercise1)
+- [Exercise 2](https://github.com/ahja-itu/ITU-DISYS2021-Exercise2)
+- [Mini project 1](https://github.com/adbo-ITU/ITU-DISYS2021-MiniProject1)
+- [Mini project 2](https://github.com/adbo-ITU/ITU-DISYS2021-MiniProject2)
+- [Mini project 3](https://github.com/adbo-ITU/ITU-DISYS2021-MiniProject3)
+
+### Grundlæggende programmering (Fall 2020)
+
+- [swuming: SWU streamingtjeneste (streaming service)](https://github.com/adbo-ITU/swu-streamingtjeneste)
